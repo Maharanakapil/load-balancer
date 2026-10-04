@@ -1,0 +1,3 @@
+variable "ass_SNs" {
+  
+}
